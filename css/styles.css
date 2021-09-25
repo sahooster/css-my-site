@@ -1,0 +1,164 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+
+hr {
+
+    border-style: dotted;
+    border-width: 6px;
+    border-color: #EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+
+.skills{
+  margin-top: 100px;
+}
+
+.my-skills{
+  color: #66BFBF;
+  font-weight: bolder;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+
+.middle-container{
+  background-color: #ffff;
+  margin: 100px 0;
+}
+
+
+.profile-para{
+  width: 40%;
+  margin: auto;
+}
+
+.profile-para-2{
+  width: 40%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+
+.btn{
+  background-color: #66BFBF;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  top: 30px;
+}
+
+.btn:hover{
+  background-color: dodgerblue;
+}
+
+
+.contact-me {
+  margin-top: 100px;
+}
+
+.get-in-touch{
+  font-weight: bolder;
+}
+
+.bottom-container{
+  margin-top: 150px;
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+
+.linked-in{
+  position: relative;
+  right: 40px;
+}
+
+.website{
+  position: relative;
+  left: 40px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
